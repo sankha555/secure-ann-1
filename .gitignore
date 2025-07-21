@@ -6,12 +6,12 @@ results/
 *.out
 *__pycache__/
 *.index
-src/diskann/apps/
+# src/diskann/apps/
 src/diskann/build
 *.txt
 Makefile
 *.a
-*.cmake 
+# *.cmake 
 *.log
 # Ignore all files that do not contain a dot (no extension)
 # *
